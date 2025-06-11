@@ -1,1 +1,1 @@
-# RNN_Stock_Price_Predection_Jeevetha
+# RNN_Stock_Price_Predection
