@@ -1,1 +1,1 @@
-# RNN_Stock_Price_Predection
+# RNN_Stock_Price_Prediction
